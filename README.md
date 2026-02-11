@@ -37,4 +37,4 @@ chmod +x ~/bin/slugify.sh
 
    * **Name**: Slugify clipboard
    * **Command**: `/home/<user>/bin/slugify.sh`
-   * **Shortcut**: Choose a key combo, e.g. `Ctrl+Alt+K`.
+   * **Shortcut**: Choose a key combo
